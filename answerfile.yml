@@ -1,6 +1,6 @@
 # Infrastructure
 # - Defines the vCenter / vSphere environment
-deploy_vsphere_host: '10.0.0.51'
+deploy_vsphere_host: '10.0.0.52'
 deploy_vsphere_user: 'administrator@vsphere.local'
 deploy_vsphere_password: 'VMware1!'
 deploy_vsphere_datacenter: 'Datacenter'
