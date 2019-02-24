@@ -4,7 +4,7 @@ deploy_vsphere_host: '10.0.0.52'
 deploy_vsphere_user: 'administrator@vsphere.local'
 deploy_vsphere_password: 'VMware1!'
 deploy_vsphere_datacenter: 'Datacenter'
-deploy_vsphere_folder: 'ANSIBLE'
+deploy_vsphere_folder: 'datastore1/ANSIBLE'
 
 # Guest
 # - Describes virtual machine common options
