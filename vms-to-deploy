@@ -1,5 +1,5 @@
 [prod-k8s-master]
-prod-k8s-master01 deploy_vsphere_datastore='datatore1' guest_custom_ip='192.168.5.77' guest_notes='Master #1'
+prod-k8s-master01 deploy_vsphere_datastore='datastore1' guest_custom_ip='192.168.5.77' guest_notes='Master #1'
 prod-k8s-master02 deploy_vsphere_datastore='datastore1' guest_custom_ip='192.168.5.78' guest_notes='Master #2'
 prod-k8s-master03 deploy_vsphere_datastore='datastore1' guest_custom_ip='192.168.5.79' guest_notes='Master #3'
 
