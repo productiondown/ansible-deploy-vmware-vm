@@ -4,11 +4,11 @@ deploy_vsphere_host: '10.0.0.52'
 deploy_vsphere_user: 'administrator@vsphere.local'
 deploy_vsphere_password: 'VMware1!'
 deploy_vsphere_datacenter: 'Datacenter'
-deploy_vsphere_folder: 'Ansible'
+deploy_vsphere_folder: ''
 
 # Guest
 # - Describes virtual machine common options
-guest_network: 'NET-STAGE'
+guest_network: 'VM Network'
 guest_netmask: '255.255.255.0'
 guest_gateway: '192.168.5.1'
 guest_dns_server: '192.168.5.1'
